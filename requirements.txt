@@ -1,0 +1,5 @@
+asgiref==3.12.1
+Django==6.1.2
+geonamescache==3.0.2
+sqlparse==0.6.0
+typing_extensions==4.16.0

@@ -1,0 +1,29 @@
+
+Thank you for applying for the position Backend Django Engineer.
+Congratulations on successfully passing our initial screening!
+
+As the next step in our hiring process, we kindly ask you to complete the following coding assessment:
+
+Assignment:
+
+Build an API that takes inputs of start and finish location both within the USA
+
+Return a map of the route along with optimal location to fuel up along the route -- optimal mostly means cost effective based on fuel prices
+
+Assume the vehicle has a maximum range of 500 miles so multiple fuel ups might need to be displayed on the route
+
+Also return the total money spent on fuel assuming the vehicle achieves 10 miles per gallon
+
+Use the attached file below for a list of fuel prices 
+
+Find a free API yourself for the map and routing
+
+Requirements:
+
+Build the app in latest stable Django
+
+Send your results for this project within 3 days of receiving the exercise
+
+The API should return results quickly, the quicker the better
+
+The API shouldn't need to call the free map/routing API you found too much. One call to the map/route API is ideal, two or three is acceptable
